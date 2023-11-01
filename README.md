@@ -1,2 +1,2 @@
 # Astrala
-Astrala Co.
+Astrala : Development Studio
