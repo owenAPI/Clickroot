@@ -41,10 +41,8 @@ Astrala is the development branch of OTTR Capital. Here, you can browse some of 
 
 * [![Python][Python.org]][Python-url]
 * [![Javascript][Javascript.com]][Javascript-url]
-* [![Tensorflow][Tensorflow.org]][Tensorflow-url]
-* [![MySQL][MySQL.com]][MySQL-url]
-* [![Excel][Excel.com]][Excel-url]
-
+* [![Typescript][Typescript.org]][Typescript-url]
+* [![NodeJS][NodeJS.org]][NodeJS-url]
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -118,3 +116,7 @@ Github: [https://github.com/owenAPI/Astrala](https://github.com/owenAPI/Astrala)
 [Javascript-url]: https://Javascript.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Typescript.org]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript-url]: https://typescriptlang.org 
+[NodeJS.org]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[NodeJS-url]: https://nodejs.org 
