@@ -11,20 +11,16 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/owenAPI/Astrala">
-    <img src="misc/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">Astrala</h3>
+<h3 align="center">dYx</h3>
 
   <p align="center">
-    Development Studio
+    Development Group
     <br />
     <br />
-    <a href="https://github.com/owenAPI/Astrala/issues">Report Bugs</a>
+    <a href="https://github.com/owenAPI/dYxCODE/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/owenAPI/Astrala/issues">Request Features</a>
+    <a href="https://github.com/owenAPI/dYxCODE/issues">Request Features</a>
   </p>
 </div>
 
@@ -33,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Astrala is the development branch of OTTR Capital. Here, you can browse some of our applications and planned products.
+dYx is the development branch of OTTR Capital. Here, you can browse some of our applications and planned products.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -66,9 +62,9 @@ If you have a suggestion that would make us better, please fork the repo and cre
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@ottrCapital](https://twitter.com/ottrCapital) - info@ottr.site
+Twitter - [@ottrCapital](https://twitter.com/ottrCo) - info@ottr.site
 
-Github: [https://github.com/owenAPI/Astrala](https://github.com/owenAPI/Astrala)
+Github: [https://github.com/owenAPI/Astrala](https://github.com/owenAPI/dYxCODE)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -85,16 +81,16 @@ Github: [https://github.com/owenAPI/Astrala](https://github.com/owenAPI/Astrala)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/owenAPI/Astrala.svg?style=for-the-badge
-[contributors-url]: https://github.com/owenAPI/Astrala/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/owenAPI/Astrala.svg?style=for-the-badge
-[forks-url]: https://github.com/owenAPI/Astrala/network/members
-[stars-shield]: https://img.shields.io/github/stars/owenAPI/Astrala.svg?style=for-the-badge
-[stars-url]: https://github.com/owenAPI/Astrala/stargazers
-[issues-shield]: https://img.shields.io/github/issues/owenAPI/Astrala.svg?style=for-the-badge
-[issues-url]: https://github.com/owenAPI/Astrala/issues
+[contributors-shield]: https://img.shields.io/github/contributors/owenAPI/dYxCODE.svg?style=for-the-badge
+[contributors-url]: https://github.com/owenAPI/dYxCODE/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/owenAPI/dYxCODE.svg?style=for-the-badge
+[forks-url]: https://github.com/owenAPI/dYxCODE/network/members
+[stars-shield]: https://img.shields.io/github/stars/owenAPI/dYxCODE.svg?style=for-the-badge
+[stars-url]: https://github.com/owenAPI/dYxCODE/stargazers
+[issues-shield]: https://img.shields.io/github/issues/owenAPI/dYxCODE.svg?style=for-the-badge
+[issues-url]: https://github.com/owenAPI/dYxCODE/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/ottrCapital
+[linkedin-url]: https://linkedin.com/company/ottrcorp
 [product-screenshot]: misc/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
