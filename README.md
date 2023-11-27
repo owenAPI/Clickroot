@@ -12,10 +12,10 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">dYx</h3>
+<h3 align="center">Happy Cat</h3>
 
   <p align="center">
-    Development Group
+    Software Development
     <br />
     <br />
     <a href="https://github.com/owenAPI/dYxCODE/issues">Report Bugs</a>
@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-dYx is the development branch of OTTR Capital. Here, you can browse some of our applications and planned products.
+Happy Cat is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -62,9 +62,9 @@ If you have a suggestion that would make us better, please fork the repo and cre
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@ottrCapital](https://twitter.com/ottrCo) - info@ottr.site
+Twitter - [@happycatcode](https://twitter.com/happycatcode) - info@ottr.site
 
-Github: [https://github.com/owenAPI/Astrala](https://github.com/owenAPI/dYxCODE)
+Github: [https://github.com/owenAPI/HappyCat](https://github.com/owenAPI/HappyCat)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
