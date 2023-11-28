@@ -12,15 +12,15 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Happy Cat</h3>
+<h3 align="center">Clickroot</h3>
 
   <p align="center">
-    Software Development
+    Software Development Studio
     <br />
     <br />
-    <a href="https://github.com/owenAPI/dYxCODE/issues">Report Bugs</a>
+    <a href="https://github.com/owenAPI/Clickroot/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/owenAPI/dYxCODE/issues">Request Features</a>
+    <a href="https://github.com/owenAPI/Clickroot/issues">Request Features</a>
   </p>
 </div>
 
@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Happy Cat is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
+Clickroot is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -62,9 +62,9 @@ If you have a suggestion that would make us better, please fork the repo and cre
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@happycatcode](https://twitter.com/happycatcode) - info@ottr.site
+Twitter - [@clickroot](https://twitter.com/clickroot) - info@ottr.site
 
-Github: [https://github.com/owenAPI/HappyCat](https://github.com/owenAPI/HappyCat)
+Github: [https://github.com/owenAPI/Clickroot](https://github.com/owenAPI/Clickroot)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
