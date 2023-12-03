@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Clickroot</h3>
+<h3 align="center">gitcandy</h3>
 
   <p align="center">
     Software Development Studio
@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-Clickroot is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
+gitcandy is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -62,9 +62,9 @@ If you have a suggestion that would make us better, please fork the repo and cre
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@clickroot](https://twitter.com/clickroot) - info@ottr.site
+Twitter - [@gitcandy](https://twitter.com/gitcandy) - info@ottr.site
 
-Github: [https://github.com/owenAPI/Clickroot](https://github.com/owenAPI/Clickroot)
+Github: [https://github.com/owenAPI/gitcandy](https://github.com/owenAPI/gitcandy)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
