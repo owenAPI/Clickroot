@@ -114,5 +114,5 @@ Github: [https://github.com/owenAPI/gitcandy](https://github.com/owenAPI/gitcand
 [JQuery-url]: https://jquery.com 
 [Typescript.org]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://typescriptlang.org 
-[cplusplus.com]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
+[cplusplus.com]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [C++-url]: https://cplusplus.com 
