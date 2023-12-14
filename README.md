@@ -1,18 +1,17 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">gitcandy</h3>
+<h3 align="center">Clickroot</h3>
 
   <p align="center">
     Software Development Studio
@@ -24,26 +23,25 @@
   </p>
 </div>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About
 
-gitcandy is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
+Clickroot is the development branch of ottr Co. Here, you can browse some of our applications and planned products.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 ### Built Using
 
-* [![Python][Python.org]][Python-url]
-* [![Javascript][Javascript.com]][Javascript-url]
-* [![Typescript][Typescript.org]][Typescript-url]
-* [![C++][cplusplus.com]][C++-url]
+- [![Python][Python.org]][Python-url]
+- [![Javascript][Javascript.com]][Javascript-url]
+- [![Typescript][Typescript.org]][Typescript-url]
+- [![C++][cplusplus.com]][C++-url]
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Any contributions are **greatly appreciated**.
@@ -58,29 +56,27 @@ If you have a suggestion that would make us better, please fork the repo and cre
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
-
 <!-- CONTACT -->
+
 ## Contact
 
-Twitter - [@gitcandy](https://twitter.com/gitcandy) - info@ottr.site
+Twitter - [@Clickroot](https://twitter.com/clickroot) - info@ottr.site
 
-Github: [https://github.com/owenAPI/gitcandy](https://github.com/owenAPI/gitcandy)
+Github: [https://github.com/owenAPI/clickroot](https://github.com/owenAPI/clickroot)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [0xOwen](https://x.com/0xOwen)
+- [0xOwen](https://x.com/0xOwen)
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/owenAPI/dYxCODE.svg?style=for-the-badge
 [contributors-url]: https://github.com/owenAPI/dYxCODE/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/owenAPI/dYxCODE.svg?style=for-the-badge
@@ -111,8 +107,8 @@ Github: [https://github.com/owenAPI/gitcandy](https://github.com/owenAPI/gitcand
 [Javascript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [Javascript-url]: https://Javascript.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 [Typescript.org]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[Typescript-url]: https://typescriptlang.org 
+[Typescript-url]: https://typescriptlang.org
 [cplusplus.com]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[C++-url]: https://cplusplus.com 
+[C++-url]: https://cplusplus.com
