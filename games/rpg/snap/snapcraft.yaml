@@ -1,0 +1,196 @@
+name: asciicker # you probably want to 'snapcraft register <name>'
+base: core18 # the base snap is the execution environment for this snap
+version: 'y8' # just for humans, typically '1.2+git' or '1.3.2'
+summary: 3D textmode RPG prototype # 79 char long summary
+
+description: |
+  This is WIP (work in progress) of 3D textmode RPG (role playing game) prototype.
+
+#architectures:
+#  - build-on: s390x
+#    run-on: s390x
+#  - build-on: ppc64el
+#    run-on: ppc64el
+#  - build-on: arm64
+#    run-on: arm64
+#  - build-on: armhf
+#    run-on: armhf
+#  - build-on: amd64
+#    run-on: amd64
+#  - build-on: i386
+#    run-on: i386
+
+# grade: devel
+grade: stable
+
+# confinement: devmode
+confinement: strict
+
+apps:
+
+  font-6:
+    command: setfont $SNAP/fonts/cp437_6x6.png.psf
+  font-8:
+    command: setfont $SNAP/fonts/cp437_8x8.png.psf
+  font-10:
+    command: setfont $SNAP/fonts/cp437_10x10.png.psf
+  font-12:
+    command: setfont $SNAP/fonts/cp437_12x12.png.psf
+  font-14:
+    command: setfont $SNAP/fonts/cp437_14x14.png.psf
+  font-16:
+    command: setfont $SNAP/fonts/cp437_16x16.png.psf
+  font-18:
+    command: setfont $SNAP/fonts/cp437_18x18.png.psf
+  font-20:
+    command: setfont $SNAP/fonts/cp437_20x20.png.psf
+  font-24:
+    command: setfont $SNAP/fonts/cp437_24x24.png.psf
+  font-28:
+    command: setfont $SNAP/fonts/cp437_28x28.png.psf
+  font-32:
+    command: setfont $SNAP/fonts/cp437_32x32.png.psf
+
+  term:
+    command: ./game_term
+    plugs:
+      - network
+      - network-bind
+      - joystick
+      # - gpm (would be fantastic)
+
+  asciicker:
+    command: ./launcher game
+    plugs:
+      - audio-playback
+      - desktop
+      - desktop-legacy
+      - network
+      - network-bind
+      - joystick
+      - opengl
+      - pulseaudio
+      - wayland
+      - x11    
+
+  editor:
+    command: ./launcher asciiid
+    plugs:
+      - audio-playback
+      - desktop
+      - desktop-legacy
+      - network
+      - network-bind
+      - joystick
+      - opengl
+      - pulseaudio
+      - wayland
+      - x11    
+
+  server:
+    command: ./server
+    plugs:
+      - network
+      - network-bind
+
+parts:
+
+  asciicker-term:
+
+    build-packages:
+      - g++
+      - make
+      - libgpm-dev
+
+    stage-packages:
+      - gpm
+      - libgpm2
+      - kbd
+
+    source: .
+    plugin: nil
+    override-build: |
+      make -f makefile_game_term
+      cp .run/game_term $SNAPCRAFT_PART_INSTALL
+
+  asciicker-sdl:
+
+    build-packages:
+      - g++
+      - make
+      - xorg-dev
+      - libgl1-mesa-dev
+      - libsdl2-dev
+
+    stage-packages:
+      - libx11-6
+      - libx11-data
+      - libxinerama1
+      - libgl1-mesa-glx
+      - libglu1-mesa
+      - libgl1-mesa-dri
+      - libsdl2-2.0-0
+      - kbd
+
+    source: .
+    plugin: nil
+    override-build: |
+      make -f makefile_game
+      cp .run/game $SNAPCRAFT_PART_INSTALL
+
+  asciicker-editor:
+
+    build-packages:
+      - g++
+      - make
+      - xorg-dev
+      - libgl1-mesa-dev
+      - libsdl2-dev
+
+    stage-packages:
+      - libx11-6
+      - libx11-data
+      - libxinerama1
+      - libgl1-mesa-glx
+      - libglu1-mesa
+      - libgl1-mesa-dri
+      - libsdl2-2.0-0
+
+    source: .
+    plugin: nil
+    override-build: |
+      make -f makefile_asciiid
+      cp .run/asciiid $SNAPCRAFT_PART_INSTALL
+
+  asciicker-server:
+
+    build-packages:
+      - g++
+      - make
+
+    source: .
+    plugin: nil
+    override-build: |
+      make -f makefile_server
+      cp .run/server $SNAPCRAFT_PART_INSTALL
+
+  assets:
+    plugin: dump
+    source: .
+   
+    stage:
+      - fonts/
+      - a3d/
+      - icons/
+      - meshes/
+      - sprites/
+      - palettes/
+      - samples/
+
+  launcher:
+    plugin: dump
+    source: ./snap
+
+    stage:
+      - launcher
+
