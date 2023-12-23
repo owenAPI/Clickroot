@@ -1,7 +1,7 @@
 
 bl_info = {
     "name": "Asciicker AKM format",
-    "author": "Gumix",
+    "author": "Owen",
     "version": (1, 1, 0),
     "blender": (2, 82, 0),
     "location": "File > Import-Export",
