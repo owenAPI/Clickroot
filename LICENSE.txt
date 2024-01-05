@@ -1,4 +1,4 @@
-Copyright (c) 2023 OTTR Capital and contributors.
+Copyright (c) 2023 OTTR Co and contributors.
 
 All Rights Reserved.
 
